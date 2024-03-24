@@ -15,7 +15,8 @@ Uma aplicação que integra o caminhoneiro(a) com lavanderias mais próximas da 
 
 
 #### **Backend:** [Spring Boot](https://spring.io/projects/spring-boot) + [Java 11](https://www.java.com/pt-BR/) + [MySQL](https://www.mysql.com/)
-#### **Frontend:** <a href="https://github.com/KathllynSantos/Projeto_Integrador_Vagalume_Frontend">Clique aqui</a> 
+#### **Frontend:**  [React Js](https://pt-br.reactjs.org/) + [Typescript](https://www.typescriptlang.org/)
+
 
 ## **:star2: DESENVOLVEDORES**
 
