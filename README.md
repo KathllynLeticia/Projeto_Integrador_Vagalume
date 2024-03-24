@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="200em" src = "https://user-images.githubusercontent.com/120657741/214131061-4d05de9f-ba11-4a70-b95c-92843ead3883.jpg">
+<img width="500em" src = "https://imgur.com/Blddkj8.png">
 
 </div>  
 
@@ -15,7 +15,7 @@ Uma aplicação que integra o caminhoneiro(a) com lavanderias mais próximas da 
 
 
 #### **Backend:** [Spring Boot](https://spring.io/projects/spring-boot) + [Java 11](https://www.java.com/pt-BR/) + [MySQL](https://www.mysql.com/)
-#### **Frontend:** Em construção 🚧
+#### **Frontend:** <a href="https://github.com/KathllynSantos/Projeto_Integrador_Vagalume_Frontend">Clique aqui</a> 
 
 ## **:star2: DESENVOLVEDORES**
 
